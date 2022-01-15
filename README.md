@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋, I'm Sayak</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate Web Developer and an udergrad CS Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isayakmondal&label=Profile%20views&color=0e75b6&style=flat" alt="isayakmondal" /> </p>
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 - 🔭 I’m currently working on **Web3 & blockchain based stuff**
 
