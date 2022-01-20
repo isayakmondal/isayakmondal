@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isayakmondal&label=Profile%20views&color=0e75b6&style=flat" alt="isayakmondal" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
+[<img align="right" src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd)
+
+
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"> -->
 
 - 🔭 I’m currently working on **Web3 & blockchain based stuff**
 
@@ -42,6 +45,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayakmondal&theme=dark" alt="isayakmondal" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isayakmondal&theme=onedark" alt="isayakmondal" /></a> </p>
+
+
 
 <!---
 isayakmondal/isayakmondal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
