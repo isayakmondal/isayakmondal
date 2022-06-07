@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hey">, I'm Sayak</h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="Hey">, I'm Sayak</h1>
 <h3 align="center">A passionate Web Developer and an udergrad CS Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isayakmondal&label=Profile%20views&color=0e75b6&style=flat" alt="isayakmondal" /> </p>
