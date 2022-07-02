@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React and Backend development**
 
-- 👨‍💻 Check out my portfolio at https://sayakmondal.vercel.app/
+- 👨‍💻 Check out my portfolio at https://www.sayakmondal.me
 
 - 🌱 I’m currently learning **Solidity**
 
