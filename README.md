@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React and Backend development**
 
-- 👨‍💻 Check out my portfolio at https://www.sayakmondal.me
+- 👨‍💻 Check out my portfolio at https://www.sayakmondal.me [Under Development]
 
 - 🌱 I’m currently learning **Solidity**
 
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://dev.to/isayakmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isayakmondal" height="30" width="40" /></a>
 <a href="https://twitter.com/sayak__mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayak__mondal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isayakmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isayakmondal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayakmondalofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isayakmondal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
