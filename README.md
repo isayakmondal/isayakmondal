@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check out my portfolio at https://www.sayakmondal.me [Under Development]
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
