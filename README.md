@@ -9,11 +9,9 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"> -->
 
-- 🔭 I’m currently working on **React and Backend development**
+- 🌱 I’m currently learning **Cloud & DevOps**
 
 - 👨‍💻 Check out my portfolio at https://www.sayakmondal.me [Under Development]
-
-- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
