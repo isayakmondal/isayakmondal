@@ -1,25 +1,25 @@
 <h1 align="center">Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="Hey">, I'm Sayak</h1>
-<h3 align="center"> DevOps x Cloud x Web Development and an udergrad CS Student</h3>
+<h3 align="center"> Engineer - Cloud & Infra x DevOps x Web Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isayakmondal&label=Profile%20views&color=0e75b6&style=flat" alt="isayakmondal" /> </p>
 
 
-[<img align="right" src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd)
+<!-- [<img align="right" src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd) -->
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"> -->
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
-- 👨‍💻 Check out my portfolio at https://www.sayakmondal.me [Under Development]
+<!-- - 👨‍💻 Check out my portfolio at https://www.sayakmondal.me [Under Development] -->
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 🤝 I’m looking for help with **Web3, Blockchain and smart contracts**
+<!-- - 🤝 I’m looking for help with **Web3, Blockchain and smart contracts** -->
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/isayakmondal?tab=repositories)
 
-- 💬 Ask me about **React, NodeJS, DS and Algo**
+- 💬 Ask me about **Cloud, DevOps, DS and Algo**
 
 - 📫 How to reach me **isayakmondal@gmail.com**
 
@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isayakmondal&size_weight=0.2&count_weight=0.2&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&hide=css,html,scss,ejs" alt="isayakmondal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=isayakmondal&show_icons=true&locale=en&theme=dark&count_private=true" alt="isayakmondal" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=isayakmondal&show_icons=true&locale=en&theme=dark&count_private=true" alt="isayakmondal" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isayakmondal&theme=dark" alt="isayakmondal" /></p>
 
